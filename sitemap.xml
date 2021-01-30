@@ -1,11 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://palistas.github.io/</loc><lastmod>2020-07-12T06:29:54-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/posts/caveman-approach/</loc><lastmod>2020-07-12T06:29:54-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/posts/</loc><lastmod>2020-07-12T06:29:54-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/tags/self/</loc><lastmod>2020-07-12T06:29:54-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/tags/</loc><lastmod>2020-07-12T06:29:54-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/resume/</loc><lastmod>2020-07-11T22:06:50-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/tags/blog/</loc><lastmod>2020-07-11T13:33:20-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/posts/first-post/</loc><lastmod>2020-07-11T13:33:20-04:00</lastmod></url><url>
-    <loc>https://palistas.github.io/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://palistas.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/caveman-approach/</loc>
+        <lastmod>2020-07-12</lastmod>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/first-post/</loc>
+        <lastmod>2020-07-11</lastmod>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/resume/</loc>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/tags/blog/</loc>
+    </url>
+    <url>
+        <loc>https://palistas.github.io/tags/self/</loc>
+    </url>
+</urlset>

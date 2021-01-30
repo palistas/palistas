@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palistas.github.io/sitemap.xml
